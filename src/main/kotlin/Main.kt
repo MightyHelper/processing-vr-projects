@@ -18,5 +18,5 @@ class MainScreen : PApplet() {
 }
 
 fun main() {
-    PApplet.main(MainScreen::class.java)
+    PApplet.main(Ex1::class.java)
 }
